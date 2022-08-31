@@ -1,1 +1,1 @@
-# ad-rdbms
+# ad-rdbms-workshop
