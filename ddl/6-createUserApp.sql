@@ -1,0 +1,1 @@
+CREATE USER usr_uan_laboratorio_app with login ENCRYPTED PASSWORD ?;

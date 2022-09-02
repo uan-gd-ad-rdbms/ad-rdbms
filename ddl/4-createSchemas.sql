@@ -1,0 +1,1 @@
+CREATE SCHEMA laboratorio AUTHORIZATION usr_uan_laboratorio;
