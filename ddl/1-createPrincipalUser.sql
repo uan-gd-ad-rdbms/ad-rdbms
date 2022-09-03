@@ -1,1 +1,1 @@
-CREATE USER usr_uan_laboratorio with login ENCRYPTED PASSWORD ?;
+CREATE USER usr_uan_laboratorio12 with login ENCRYPTED PASSWORD ?;
